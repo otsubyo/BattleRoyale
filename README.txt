@@ -2,4 +2,4 @@ nom des élèves ayant réalisés le projet :
 
 PREMI Carl
 
-Pour lancer la version compilée, se rendre dans le BattleRoyale et lancer BattleRoyale.exe
+Pour lancer la version compilée, se rendre dans le dossier BattleRoyale et lancer BattleRoyale.exe
